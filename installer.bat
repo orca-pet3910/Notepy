@@ -7,4 +7,8 @@ echo Installing...
 mkdir "%userprofile%\Notepy"
 copy notepy_en "%userprofile%\Notepy"
 copy notepy_pl "%userprofile%\Notepy"
+copy notepy_en\src "%userprofile%\Notepy"
+copy notepy_pl\src "%userprofile%\Notepy"
 echo Error code (0 means everything is okay, if it isn't, use "certutil /error %errorlevel%"): %errorlevel%
+echo Press any key to exit...
+pause > nul

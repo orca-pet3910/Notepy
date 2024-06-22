@@ -40,6 +40,7 @@ def save_file():
         with open(file_path, mode='w', encoding='utf-8', errors='replace') as file:
             data = text_area.get(1.0, tk.END)
             file.write(data)
+
 if getattr(sys, 'frozen', False):
     # The application is frozen
     bundle_dir = sys._MEIPASS
@@ -51,7 +52,11 @@ else:
 icon_path = os.path.join(bundle_dir, 'fileicon.ico')
 root = tk.Tk()
 root.title("Notepy - bez tytułu")
-root.iconbitmap('fileicon.ico')
+try:
+	root.iconbitmap('fileicon.ico')
+except:
+	pass
+
 menu = tk.Menu(root)
 root.config(menu=menu)
 file_menu = tk.Menu(menu)

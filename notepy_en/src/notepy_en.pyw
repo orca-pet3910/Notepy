@@ -51,7 +51,11 @@ else:
 icon_path = os.path.join(bundle_dir, 'fileicon.ico')
 root = tk.Tk()
 root.title("Notepy - untitled")
-root.iconbitmap('fileicon.ico')
+try:
+	root.iconbitmap('fileicon.ico')
+except:
+	pass
+
 menu = tk.Menu(root)
 root.config(menu=menu)
 file_menu = tk.Menu(menu)
