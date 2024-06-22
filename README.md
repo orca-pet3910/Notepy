@@ -1,2 +1,6 @@
 # Notepy
-the simpliest notepad ever lol
+simpliest notepad you can ever find
+
+`// RedibleSky   - helper`
+
+`// orca-pet3910 -  owner`
