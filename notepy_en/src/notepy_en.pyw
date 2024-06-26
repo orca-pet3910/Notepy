@@ -24,7 +24,7 @@ def new_file():
     text_area.delete(1.0, tk.END)
 
 def open_file():
-    file_path = filedialog.askopenfilename(parent=root, filetypes=[("Normal text files", "*.txt"), ("Python files", "*.py"), ("No console python files", "*.pyw")])  # This gets the file path
+    file_path = filedialog.askopenfilename(parent=root, filetypes=[("Normal text files", "*.txt"), ("Python files", "*.py"), ("No console python files", "*.pyw"), ("All files", "*.*")])  # This gets the file path
     if file_path:
         with open(file_path, mode='r', encoding='utf-8', errors='replace') as file:
             content = file.read()
