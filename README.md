@@ -3,7 +3,9 @@ simpliest notepad you can ever find
 
 `// RedibleSky   - helper`
 
-`// user0-07161  - improving notepy a LOT`
+`// user0-07161  - improving Notepy a LOT`
+
+`// voxjgithub   - making Russian option for Notepy`
 
 `// orca-pet3910 -  owner`
 
