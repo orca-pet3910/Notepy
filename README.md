@@ -1,7 +1,7 @@
 # Notepy
 simpliest notepad you can ever find
 
-`// RedibleSky   - helper`
+`// RedibleSky   - helper / uploader`
 
 `// user0-07161  - improving Notepy a LOT`
 
