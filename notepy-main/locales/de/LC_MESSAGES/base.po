@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-07-08 03:52-0400\n"
+"PO-Revision-Date: 2024-07-08 03:59-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#: notepy.pyw:44
+msgid ""
+"Note: running this app in pyw or pythonw is more recommended than in py or "
+"python!"
+msgstr ""
+"Notiz: diese App in Pyw oder PythonW auszuführen ist im gegensatz zu py "
+"und Python empfohlen."
+
+#: notepy.pyw:50
+msgid "made by orca.pet"
+msgstr "erstellt von orca.pet"
+
+#: notepy.pyw:55
+msgid ""
+"In the commands menu you will\n"
+"find \"New\", \"Open\", \"Save\" and \"Exit\".\n"
+"What these actually do is:\n"
+"\"New\" basically makes a new empty file;\n"
+"\"Open\" opens another file WITHOUT saving it,\n"
+"\"Save\" writes data you wrote and\n"
+"\"Exit\" exits ALSO WITHOUT saving contents."
+msgstr ""
+"Im Kommandomenü wirst du\n"
+"\"Neu\", \"Öffnen\", \"Speichern\" und \"Verlassen\" finden.\n"
+"Was diese tun ist:\n"
+"\"Neu\" erstellt eine neue Datei;\n"
+"\"Öffnen\" öffnet eine Datei;\n"
+"\"Speichern\" speichert den von dir geschriebenen text."
+
+#: notepy.pyw:62 notepy.pyw:73
+msgid "No console python files"
+msgstr "Keine-Konsolen-Python-Dateien"
+
+#: notepy.pyw:62 notepy.pyw:73
+msgid "Normal text files"
+msgstr "Normale Textdateien"
+
+#: notepy.pyw:62 notepy.pyw:73
+msgid "Python files"
+msgstr "Python-Dateien"
+
+#: notepy.pyw:90
+msgid "Notepy - untitled"
+msgstr "NotePy - ohne Titel"
+
+#: notepy.pyw:115
+msgid "Choose a language"
+msgstr "Wähle eine Sprache"
+
+#: notepy.pyw:132 notepy.pyw:139
+msgid "Save"
+msgstr "Speichern"
+
+#: notepy.pyw:135
+msgid "File"
+msgstr "Datei"
+
+#: notepy.pyw:137
+msgid "New"
+msgstr "Neu"
+
+#: notepy.pyw:138
+msgid "Open"
+msgstr "Öffnen"
+
+#: notepy.pyw:140
+msgid "Switch theme color"
+msgstr "Themenfarbe ändern"
+
+#: notepy.pyw:141
+msgid "Switch language"
+msgstr "Sprache ändern"
+
+#: notepy.pyw:143
+msgid "Exit"
+msgstr "Verlassen"
+
+#: notepy.pyw:145 notepy.pyw:147
+msgid "Help"
+msgstr "Hilfe"
+
+#: notepy.pyw:149
+msgid "About Notepy..."
+msgstr "Über NotePy..."
