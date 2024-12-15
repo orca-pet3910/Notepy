@@ -1,0 +1,2 @@
+# How to translate NotePy:
+Get an GNU-Gettext (PO-File) compatible Po-Editor (e.g. PoEdit) and open the base.pot. Once you finished translating, create an directory with your language-code (for example "de" for German), inside of that folder create an folder called "LC_MESSAGES", inside of that folder place your base.po. Compile the base.po into an .mo file (base.mo) and place it in the same folder like the base.po. After that, submit an pull request.
