@@ -1,5 +1,5 @@
 # Notepy
-simpliest notepad you can ever find
+simplest notepad you can ever find
 
 `// RedibleSky   - helper / uploader`
 
